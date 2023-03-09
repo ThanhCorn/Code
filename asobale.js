@@ -2,7 +2,7 @@ import React from 'react'
 
 const asobale = () => {
   return (
-    <div>asobale</div>
+    <div>asobale12</div>
   )
 }
 
