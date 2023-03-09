@@ -1,3 +1,3 @@
 # Codesafdasfd
 
-conflict1
+conflict2
