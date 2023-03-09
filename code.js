@@ -2,8 +2,10 @@ import React from 'react'
 
 const code = () => {
   return (
-    <div>code</div>
+    <div>code
+    <p>sàde</p>
+    </div>
   )
 }
 
-export default code
+export default code;
